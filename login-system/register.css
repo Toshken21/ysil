@@ -1,0 +1,47 @@
+form {
+    width: 500px;
+    height: 600px;
+    border: 1px solid grey;
+    border-radius: 12px;
+    box-shadow: 2px  rgb(82, 73, 73);
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid grey;
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+
+
+label {
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#submit {
+    border-radius: 15px;
+    color: rgb(50, 131, 197);
+    width: 100px;
+    height: 60px;
+    background-color: rgb(80, 80, 206);
+    margin-left: 180px;
+    margin-top: 20px;
+    
+}
+
+#submit:hover {
+    background-color: rgb(54, 54, 175);
+}
+
+#bigtext {
+    font-size: 16px;
+}
+
+a {
+    margin-left: 20px;
+}
